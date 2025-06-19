@@ -34,23 +34,8 @@
 
 - **HTML5** – Semantic and structured markup
 - **CSS3** – Flexbox, Grid, Media Queries, Animations
-- **Vanilla JavaScript** – Interactivity without any frameworks
+- **JavaScript** – Interactivity without any frameworks
 
----
 
-## 🧩 Folder Structure
-shopkart/
-├── index.html
-├── styles.css
-├── script.js
-├── assets/
-│ ├── images/
-│ │ ├── hero.jpg
-│ │ ├── Smartwatch.webp
-│ │ ├── Wireless Earbuds.webp
-│ │ └── ...
-└── README.md
-
----
 
 

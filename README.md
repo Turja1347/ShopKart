@@ -25,7 +25,7 @@
 
 ---
 
-## 🛠️ Built With
+## 🛠️  Built With
 
 - **HTML5** – Semantic and structured markup
 - **CSS3** – Flexbox, Grid, Media Queries, Animations

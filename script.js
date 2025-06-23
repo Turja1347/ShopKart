@@ -9,7 +9,7 @@ window.addEventListener("load", () => {
   }
 });
 
-//  Ripple Effect
+//  Ripple effect
 document.querySelectorAll(".ripple").forEach((button) => {
   button.addEventListener("click", function (e) {
     const circle = document.createElement("span");

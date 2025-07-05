@@ -1,4 +1,4 @@
-# 🛍️ ShopKart – Modern eCommerce Landing Page
+## 🛍️ ShopKart – Modern eCommerce Landing Page
 
 **ShopKart** is a sleek, responsive, and feature-rich eCommerce landing page built using **HTML**, **CSS**, and **Vanilla JavaScript**. It emphasizes strong UI/UX principles, smooth animations, mobile-first responsiveness, and dark mode functionality.
 
